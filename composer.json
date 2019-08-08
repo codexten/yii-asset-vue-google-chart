@@ -3,8 +3,8 @@
   "type": "library",
   "description": "vue-google-chart asset for yii 2.0 or higher",
   "require": {
-    "codexten/yii-web": "~2.0.0",
-    "npm-asset/vue-google-chart": "~2.6.0"
+    "codexten/yii-asset-vue": "~2.0.0",
+    "npm-asset/vue-google-charts": "*"
   },
   "autoload": {
     "psr-4": {
